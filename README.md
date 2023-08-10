@@ -1,1 +1,2 @@
-# demo-repo
+# My first repository
+Some description
